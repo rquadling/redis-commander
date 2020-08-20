@@ -39,7 +39,7 @@
     "sf": "0.1.9"
   },
   "optionalDependencies": {
-    "bcrypt": "~3.0.0"
+    "bcrypt": "~5.0.0"
   },
   "devDependencies": {},
   "engines": {
